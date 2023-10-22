@@ -3,4 +3,4 @@
 
 export const SITE_TITLE = 'Sloppd';
 export const SITE_DESCRIPTION = 'towards a future bereft of slippery slopes';
-export const HOMEPAGE_URL= 'https://www.sloppd.com';
+export const HOMEPAGE_URL= 'https://sloppd-v1.netlify.app/';
